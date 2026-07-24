@@ -14,9 +14,10 @@ I'm currently pursuing **B.E. in Computer Science Engineering** at **Sri Sairam 
 
 ### 🌐 Connect with Me
 
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
-- Instagram: [your-instagram-url]
+- LinkedIn:www.linkedin.com/in/roshini26
+- GITHUB:https://github.com/roshini-official
+- Email: roshini12official@gmail.com
+
 
 ---
 
@@ -37,6 +38,7 @@ Root-cause analysis of product returns and financial loss estimation, with ML pi
 ## 🏆 Certifications
 
 - AI Careers for Women — Microsoft, Edunet Foundation, SAP India (2025–26)
+- Tata GenAI Powered Data Analytics Job Simulation – Forage
 - SQL Basics (Standard) — SkillRack
 - SQL and Relational Databases 101 — Cognitive Class
 - C Programming Course (Hands-On) — SkillRack
