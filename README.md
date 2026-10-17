@@ -1,60 +1,123 @@
 # 👋 Hi, I'm Roshini Sri S
 
-### AI & Data Science Enthusiast • Software Developer • CSE Student
+💻 **Computer Science Engineering Student | AI & Data Science Enthusiast | Software Developer**
 
-I'm currently pursuing **B.E. in Computer Science Engineering** at **Sri Sairam College of Engineering** (VTU), Anekal, Bengaluru, and enjoy building AI and data-driven solutions to real-world problems.
-
-- 🎓 B.E. CSE, 2023–2027 | CGPA: 8.43
-- 🤖 Interested in Artificial Intelligence, Data Science & Software Development
-- 💼 Completed virtual internships at **ServiceNow University**, **SmartBridge**, and **AI for Sustainability** (AICTE, IBM SkillsBuild & 1M1B)
-- 🌱 Currently sharpening skills in ML pipelines, deep learning (CNN/ANN), and full-stack deployment with Streamlit
-- ⚡ Always building, learning and shipping projects
+🎓 B.E. Computer Science Engineering — Sri Sairam College of Engineering, VTU  
+📊 CGPA: 8.43 | Graduation: 2027
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 About Me
 
-- LinkedIn:www.linkedin.com/in/roshini26
-- GITHUB:https://github.com/roshini-official
-- Email: roshini12official@gmail.com
+I'm a Computer Science Engineering student passionate about developing practical software applications, AI-powered solutions, and data-driven systems. I enjoy learning new technologies, solving real-world problems, and turning ideas into working projects.
 
-
----
-
-## 🚀 Featured Projects
-
-### 🍃 Leaf Disease Prediction System
-CNN model (TensorFlow/Keras) classifying leaf images into Healthy, Early Blight, and Late Blight — deployed as a Streamlit web app with model weights auto-downloaded via `gdown`.
-
-### 📉 Customer Churn Analysis
-ANN model (TensorFlow/Keras) predicting customer churn, with a full preprocessing pipeline (StandardScaler, LabelEncoder, OneHotEncoder) — deployed with Streamlit.
-
-### 📦 Product Return Analysis — Capstone Project
-Root-cause analysis of product returns and financial loss estimation, with ML pipelines (Scikit-learn, Imbalanced-Learn) for return-probability prediction.
-🔗 github.com/roshini-official/product_return_analysis
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Analytics
+- 💻 Exploring software development and full-stack application development
+- 🧠 Learning Deep Learning, CNNs, ANNs, and machine learning pipelines
+- 📊 Building data-driven dashboards and interactive applications
+- 🌱 Continuously improving my programming, problem-solving, and development skills
+- 🎯 Goal: To become a skilled software engineer and build impactful technology solutions
 
 ---
 
-## 🏆 Certifications
+## 🛠️ Tech Stack
 
-- AI Careers for Women — Microsoft, Edunet Foundation, SAP India (2025–26)
-- Tata GenAI Powered Data Analytics Job Simulation – Forage
-- SQL Basics (Standard) — SkillRack
-- SQL and Relational Databases 101 — Cognitive Class
-- C Programming Course (Hands-On) — SkillRack
+**👩‍💻 Programming Languages**
+
+🐍 Python · ☕ Java · 💻 C · JavaScript · HTML · CSS
+
+**🤖 AI, Machine Learning & Data Analytics**
+
+TensorFlow · Keras · Scikit-learn · Pandas · NumPy · Matplotlib · Plotly
+
+**🌐 Web Development & Application Deployment**
+
+HTML · CSS · JavaScript · Streamlit
+
+**🧰 Tools & Platforms**
+
+Git · GitHub · VS Code · Jupyter Notebook · MySQL
+
+**📚 Core Computer Science**
+
+Data Structures & Algorithms (Basics) · Object-Oriented Programming · DBMS · SQL · Problem Solving
 
 ---
 
-## 💻 Tech Stack
+## 🌟 Featured Projects
 
-**Languages:** Python, Java, C, JavaScript, HTML, CSS
+### 🍃 1. Leaf Disease Prediction System
 
-**AI / Machine Learning:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Plotly
+A deep learning application designed to classify plant leaf diseases from images.
 
-**Tools & Platforms:** Streamlit, Git, GitHub, VS Code, Jupyter Notebook
+- 🌿 Built an image classification model using TensorFlow, Keras, and MobileNetV2.
+- 🧠 Applied transfer learning to recognize leaf disease categories.
+- 🌐 Developed an interactive prediction interface using Streamlit.
+- 🎯 Designed to support the identification of plant leaf diseases through image-based predictions.
 
-**Core CS:** Data Structures, OOP, DBMS, SQL
+**Technologies:** Python · TensorFlow · Keras · MobileNetV2 · Streamlit
+
+🔗 [View Repository](https://github.com/roshini-official/leaf-disease-prediction)
+
+### ♻️ 2. Smart Waste Management Through Intelligent Fill-Level Monitoring
+
+An IoT-focused waste monitoring dashboard designed to visualize bin fill levels and support smarter waste collection.
+
+- 📊 Developed a dashboard to display waste-bin fill levels and monitoring status.
+- 🚦 Designed visual indicators to make bin conditions easier to understand.
+- 📈 Presented monitoring data through an interactive dashboard.
+- 🔧 Exploring continuous sensor updates and integration with physical IoT hardware.
+
+**Technologies:** Python · IoT Concepts · Streamlit · Data Visualization
+
+🔗 [Explore My GitHub Repositories](https://github.com/roshini-official)
+
+### 📦 3. Product Return Analysis — Capstone Project
+
+A data analytics and machine learning project focused on understanding e-commerce product cancellations, returns, and associated financial losses.
+
+- 📊 Analyzed e-commerce order data to identify patterns and potential causes of returns.
+- 💰 Estimated financial losses associated with canceled orders.
+- 🤖 Developed a machine learning pipeline to predict return probability.
+- 📈 Built an interactive Streamlit dashboard to present analytical insights.
+
+**Technologies:** Python · Pandas · NumPy · Scikit-learn · Streamlit
+
+🔗 [View Repository](https://github.com/roshini-official/product_return_analysis)
 
 ---
 
-*"Turning data into decisions, one model at a time."*
+## 🏆 Certifications & Learning
+
+- 🧠 **AI Careers for Women** — Microsoft, Edunet Foundation & SAP India
+- 📈 **Tata GenAI Powered Data Analytics Job Simulation** — Forage
+- 🗄️ **SQL Basics (Standard)** — SkillRack
+- 💾 **SQL and Relational Databases 101** — Cognitive Class
+- 💻 **C Programming Course (Hands-On)** — SkillRack
+- 🌐 **ServiceNow Virtual Internship** — SmartBridge / AICTE
+- 🌍 **AI for Sustainability** — IBM SkillsBuild, 1M1B & AICTE
+
+---
+
+## 📊 What I'm Currently Learning
+
+- 🤖 Machine Learning model development and evaluation
+- 🧠 Deep Learning architectures and image classification
+- 📊 Data preprocessing, feature engineering, and analytics
+- 🌐 Building and deploying interactive applications
+- 🔌 IoT monitoring concepts and sensor integration
+- 💻 Software engineering fundamentals and problem-solving
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [roshini26](https://www.linkedin.com/in/roshini26)
+- 🐙 **GitHub:** [roshini-official](https://github.com/roshini-official)
+- 📧 **Email:** [roshini12official@gmail.com](mailto:roshini12official@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+💡 *Learn continuously. Build thoughtfully. Turn ideas into meaningful solutions.* 🚀
