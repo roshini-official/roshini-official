@@ -80,9 +80,9 @@ A data analytics and machine learning project focused on understanding e-commerc
 - 💰 Estimated financial losses associated with canceled orders.
 - 🤖 Developed a machine learning pipeline to predict return probability.
 - 📈 Built an interactive Streamlit dashboard to present analytical insights.
-  ## <img src="https://img.icons8.com/fluency/48/cyber-security.png" width="28"/>Major Project
+  ## Major Project
 
-### <img src="https://img.icons8.com/fluency/48/shield.png" width="24"/> SmartVNC – Security Against Data Exfiltration
+### <img src="https://img.icons8.com/fluency/48/shield.png" width="24"/>4.SmartVNC – Security Against Data Exfiltration
 
 **Final Year Major Project | Cybersecurity | Machine Learning**
 
