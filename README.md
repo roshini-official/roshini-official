@@ -80,6 +80,51 @@ A data analytics and machine learning project focused on understanding e-commerc
 - 💰 Estimated financial losses associated with canceled orders.
 - 🤖 Developed a machine learning pipeline to predict return probability.
 - 📈 Built an interactive Streamlit dashboard to present analytical insights.
+  ## <img src="https://img.icons8.com/fluency/48/cyber-security.png" width="28"/> Featured Major Project
+
+### <img src="https://img.icons8.com/fluency/48/shield.png" width="24"/> SmartVNC – Security Against Data Exfiltration
+
+**Final Year Major Project | Cybersecurity | Machine Learning**
+
+An intelligent security monitoring system designed to identify suspicious network activities and potential data exfiltration through VNC connections using machine learning, real-time network traffic analysis, and risk-based alerting.
+
+#### <img src="https://img.icons8.com/fluency/48/task.png" width="22"/> Key Features
+
+- <img src="https://img.icons8.com/fluency/16/network.png"/> Real-time VNC network traffic monitoring and analysis.
+- <img src="https://img.icons8.com/fluency/16/artificial-intelligence.png"/> ML-based suspicious activity detection using XGBoost.
+- <img src="https://img.icons8.com/fluency/16/database.png"/> Host-level security analysis using the CERT Insider Threat Dataset.
+- <img src="https://img.icons8.com/fluency/16/error.png"/> Risk assessment and automated security alerts.
+- <img src="https://img.icons8.com/fluency/16/dashboard.png"/> Interactive Streamlit dashboard for security monitoring.
+- <img src="https://img.icons8.com/fluency/16/security-checked.png"/> Prevention mechanisms against suspicious activities.
+
+#### <img src="https://img.icons8.com/fluency/48/code.png" width="22"/> Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scapy-2C3E50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+#### <img src="https://img.icons8.com/fluency/48/data-configuration.png" width="22"/> Datasets
+
+- **CICIDS2017** – Network traffic classification.
+- **CERT Insider Threat Dataset (r4.2)** – Host-level insider threat analysis.
+
+#### <img src="https://img.icons8.com/fluency/48/github.png" width="22"/> Project Repository
+
+<p align="center">
+<a href="https://github.com/roshini-official/SmartVNC-Exfiltration-Detection">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+**Project Category:** Final Year Major Project | Team Project
 
 **Technologies:** Python · Pandas · NumPy · Scikit-learn · Streamlit
 
